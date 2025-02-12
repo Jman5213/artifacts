@@ -3,7 +3,7 @@ import time
 
 # Server URL and configuration
 server = "https://api.artifactsmmo.com"
-token ='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImptYW41MjEzQG91dGxvb2suY29tIiwicGFzc3dvcmRfY2hhbmdlZCI6IiJ9.OCGB-BnWV4AokRWX9qWB0a9ZEc9sWXHFJTlWzIRFfuQ'  # Your token (keep this secret)  # Your character name
+token =''  # Your token (keep this secret)  # Your character name
 url_base = f"{server}/my/"
 character_colors = {"Jman5213":"\033[96m","JmanBob":"\033[91m","JmanTree":"\033[34m"}
 
